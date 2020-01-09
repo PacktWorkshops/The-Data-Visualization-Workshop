@@ -1,0 +1,501 @@
+Age,Annual Salary,Weekly hours,Education
+72,160000.0,40.0,Bachelor's degree or higher
+72,100000.0,50.0,Bachelor's degree or higher
+31,120000.0,40.0,Bachelor's degree or higher
+28,45000.0,40.0,Bachelor's degree or higher
+54,85000.0,40.0,Bachelor's degree or higher
+45,12000.0,40.0,High school diploma
+84,0.0,0.0,Associate's degree
+71,55000.0,40.0,Bachelor's degree or higher
+68,0.0,0.0,Associate's degree
+46,65000.0,50.0,Bachelor's degree or higher
+59,82000.0,50.0,Bachelor's degree or higher
+75,0.0,0.0,Bachelor's degree or higher
+53,0.0,0.0,Bachelor's degree or higher
+53,638000.0,40.0,Bachelor's degree or higher
+23,60000.0,45.0,Bachelor's degree or higher
+20,2500.0,27.0,High school diploma
+62,35000.0,40.0,Bachelor's degree or higher
+85,0.0,0.0,Associate's degree
+40,638000.0,55.0,Bachelor's degree or higher
+47,225000.0,50.0,Bachelor's degree or higher
+37,55000.0,40.0,Bachelor's degree or higher
+37,50000.0,40.0,Bachelor's degree or higher
+34,37000.0,40.0,Bachelor's degree or higher
+34,65000.0,45.0,"Attended college, no degree"
+46,60000.0,40.0,Bachelor's degree or higher
+25,40000.0,40.0,"Attended college, no degree"
+21,0.0,0.0,"Attended college, no degree"
+40,80000.0,36.0,Bachelor's degree or higher
+44,80000.0,40.0,"Attended college, no degree"
+38,30000.0,40.0,High school diploma
+65,900.0,29.0,Bachelor's degree or higher
+43,44200.0,40.0,No diploma
+65,175000.0,35.0,Associate's degree
+35,0.0,0.0,High school diploma
+89,0.0,0.0,High school diploma
+56,65000.0,40.0,"Attended college, no degree"
+54,65000.0,40.0,"Attended college, no degree"
+49,23000.0,30.0,Bachelor's degree or higher
+74,60000.0,35.0,Bachelor's degree or higher
+70,0.0,0.0,Associate's degree
+35,30000.0,50.0,Bachelor's degree or higher
+31,0.0,13.0,Bachelor's degree or higher
+55,46100.0,40.0,High school diploma
+54,28000.0,40.0,High school diploma
+73,0.0,0.0,No diploma
+80,0.0,0.0,High school diploma
+23,97000.0,40.0,Bachelor's degree or higher
+45,35000.0,43.0,"Attended college, no degree"
+45,38000.0,40.0,No diploma
+40,13000.0,60.0,"Attended college, no degree"
+87,0.0,0.0,Bachelor's degree or higher
+89,0.0,0.0,Bachelor's degree or higher
+59,10000.0,20.0,Bachelor's degree or higher
+40,78000.0,35.0,Bachelor's degree or higher
+62,60000.0,30.0,"Attended college, no degree"
+59,85000.0,45.0,Bachelor's degree or higher
+67,6300.0,10.0,Bachelor's degree or higher
+95,0.0,0.0,High school diploma
+34,55000.0,40.0,Bachelor's degree or higher
+38,90000.0,50.0,Associate's degree
+45,30000.0,50.0,"Attended college, no degree"
+40,0.0,0.0,"Attended college, no degree"
+72,0.0,0.0,"Attended college, no degree"
+72,0.0,0.0,Bachelor's degree or higher
+54,22000.0,39.0,Bachelor's degree or higher
+54,125000.0,50.0,Associate's degree
+39,70000.0,40.0,Associate's degree
+20,0.0,0.0,"Attended college, no degree"
+30,200000.0,45.0,Bachelor's degree or higher
+29,0.0,0.0,Associate's degree
+77,0.0,0.0,High school diploma
+50,37800.0,50.0,"Attended college, no degree"
+21,10000.0,25.0,"Attended college, no degree"
+80,0.0,0.0,No diploma
+77,0.0,0.0,High school diploma
+62,36000.0,40.0,Associate's degree
+82,0.0,0.0,No diploma
+46,8500.0,20.0,Bachelor's degree or higher
+68,0.0,0.0,Bachelor's degree or higher
+34,30000.0,40.0,Bachelor's degree or higher
+30,2000.0,10.0,Bachelor's degree or higher
+28,60000.0,50.0,Bachelor's degree or higher
+25,1300.0,18.0,Bachelor's degree or higher
+24,40000.0,40.0,"Attended college, no degree"
+24,16000.0,50.0,"Attended college, no degree"
+70,0.0,0.0,Bachelor's degree or higher
+70,0.0,0.0,"Attended college, no degree"
+21,2000.0,20.0,High school diploma
+22,5100.0,17.0,High school diploma
+65,0.0,0.0,"Attended college, no degree"
+65,0.0,0.0,Associate's degree
+50,23000.0,10.0,Bachelor's degree or higher
+56,54000.0,70.0,Bachelor's degree or higher
+30,0.0,0.0,Bachelor's degree or higher
+42,0.0,0.0,High school diploma
+39,200000.0,50.0,Bachelor's degree or higher
+39,0.0,0.0,"Attended college, no degree"
+53,0.0,60.0,No diploma
+43,0.0,0.0,No diploma
+46,12000.0,20.0,"Attended college, no degree"
+55,0.0,50.0,"Attended college, no degree"
+51,0.0,15.0,High school diploma
+42,0.0,0.0,Bachelor's degree or higher
+36,75000.0,40.0,Associate's degree
+28,75000.0,45.0,Bachelor's degree or higher
+27,30000.0,38.0,"Attended college, no degree"
+36,15000.0,50.0,Bachelor's degree or higher
+29,30000.0,40.0,Bachelor's degree or higher
+72,0.0,17.0,Bachelor's degree or higher
+75,18000.0,15.0,Bachelor's degree or higher
+33,38300.0,45.0,Associate's degree
+81,0.0,0.0,High school diploma
+77,0.0,0.0,High school diploma
+56,14000.0,20.0,Associate's degree
+62,68000.0,40.0,Bachelor's degree or higher
+72,0.0,0.0,High school diploma
+32,36000.0,35.0,High school diploma
+38,120000.0,60.0,Bachelor's degree or higher
+67,0.0,0.0,Bachelor's degree or higher
+67,13000.0,18.0,"Attended college, no degree"
+61,60000.0,35.0,High school diploma
+65,0.0,0.0,"Attended college, no degree"
+22,2000.0,40.0,Bachelor's degree or higher
+64,0.0,0.0,"Attended college, no degree"
+80,0.0,0.0,High school diploma
+36,47500.0,50.0,Bachelor's degree or higher
+57,0.0,0.0,"Attended college, no degree"
+61,18000.0,32.0,"Attended college, no degree"
+76,38500.0,15.0,"Attended college, no degree"
+60,20800.0,20.0,"Attended college, no degree"
+67,3300.0,8.0,High school diploma
+50,190000.0,50.0,High school diploma
+46,86000.0,50.0,Bachelor's degree or higher
+18,6500.0,25.0,"Attended college, no degree"
+51,75000.0,40.0,Associate's degree
+50,27000.0,35.0,High school diploma
+58,8800.0,12.0,High school diploma
+63,56000.0,40.0,High school diploma
+29,185000.0,75.0,Bachelor's degree or higher
+30,31000.0,45.0,"Attended college, no degree"
+30,0.0,0.0,"Attended college, no degree"
+42,0.0,0.0,Associate's degree
+35,15500.0,80.0,Bachelor's degree or higher
+41,0.0,0.0,High school diploma
+57,40000.0,40.0,Bachelor's degree or higher
+62,0.0,0.0,High school diploma
+69,0.0,0.0,"Attended college, no degree"
+59,180000.0,50.0,Bachelor's degree or higher
+58,0.0,0.0,Bachelor's degree or higher
+37,51000.0,55.0,High school diploma
+36,0.0,0.0,"Attended college, no degree"
+63,30000.0,40.0,High school diploma
+64,0.0,0.0,"Attended college, no degree"
+57,638000.0,60.0,Bachelor's degree or higher
+67,0.0,0.0,"Attended college, no degree"
+39,60000.0,40.0,Bachelor's degree or higher
+20,38000.0,40.0,High school diploma
+23,0.0,0.0,"Attended college, no degree"
+42,32000.0,44.0,Associate's degree
+19,1600.0,8.0,"Attended college, no degree"
+64,45000.0,40.0,High school diploma
+64,3800.0,20.0,"Attended college, no degree"
+44,20800.0,40.0,High school diploma
+61,40000.0,45.0,"Attended college, no degree"
+55,30000.0,40.0,High school diploma
+43,75000.0,42.0,Bachelor's degree or higher
+49,100000.0,40.0,Bachelor's degree or higher
+59,59000.0,40.0,Bachelor's degree or higher
+58,32000.0,38.0,Associate's degree
+59,68000.0,40.0,High school diploma
+25,0.0,0.0,High school diploma
+73,0.0,0.0,Associate's degree
+72,0.0,0.0,"Attended college, no degree"
+80,0.0,0.0,Bachelor's degree or higher
+51,38000.0,40.0,Bachelor's degree or higher
+42,60000.0,30.0,Bachelor's degree or higher
+41,46900.0,40.0,Bachelor's degree or higher
+55,51000.0,35.0,Associate's degree
+77,0.0,0.0,High school diploma
+38,70000.0,40.0,Bachelor's degree or higher
+35,70000.0,44.0,Bachelor's degree or higher
+29,115000.0,60.0,Bachelor's degree or higher
+29,46000.0,60.0,Bachelor's degree or higher
+58,120000.0,50.0,Bachelor's degree or higher
+42,79000.0,40.0,Associate's degree
+58,32000.0,40.0,Bachelor's degree or higher
+40,90000.0,40.0,Bachelor's degree or higher
+24,15600.0,26.0,Bachelor's degree or higher
+47,90000.0,38.0,Bachelor's degree or higher
+58,0.0,0.0,"Attended college, no degree"
+24,8000.0,16.0,"Attended college, no degree"
+32,77000.0,40.0,Bachelor's degree or higher
+32,3000.0,35.0,Bachelor's degree or higher
+59,135000.0,35.0,Bachelor's degree or higher
+52,165000.0,50.0,Bachelor's degree or higher
+23,9000.0,20.0,Bachelor's degree or higher
+35,40000.0,60.0,Bachelor's degree or higher
+34,30000.0,40.0,"Attended college, no degree"
+62,0.0,25.0,Bachelor's degree or higher
+63,0.0,0.0,"Attended college, no degree"
+64,100000.0,50.0,Bachelor's degree or higher
+27,8400.0,20.0,"Attended college, no degree"
+23,7000.0,30.0,Associate's degree
+44,50000.0,40.0,Bachelor's degree or higher
+41,60000.0,40.0,Bachelor's degree or higher
+37,0.0,0.0,High school diploma
+41,66000.0,50.0,Bachelor's degree or higher
+65,0.0,0.0,No diploma
+76,10000.0,25.0,No diploma
+57,78000.0,40.0,"Attended college, no degree"
+30,29000.0,36.0,Associate's degree
+38,0.0,50.0,Bachelor's degree or higher
+39,80000.0,40.0,Bachelor's degree or higher
+56,30000.0,30.0,"Attended college, no degree"
+67,0.0,0.0,Associate's degree
+64,0.0,0.0,"Attended college, no degree"
+75,0.0,3.0,Bachelor's degree or higher
+86,0.0,0.0,Bachelor's degree or higher
+42,75000.0,45.0,Bachelor's degree or higher
+48,119000.0,40.0,Bachelor's degree or higher
+47,0.0,0.0,Bachelor's degree or higher
+77,1000.0,3.0,Bachelor's degree or higher
+58,0.0,0.0,Bachelor's degree or higher
+62,72000.0,50.0,Bachelor's degree or higher
+22,20000.0,40.0,"Attended college, no degree"
+62,30000.0,37.0,High school diploma
+45,20000.0,36.0,"Attended college, no degree"
+75,0.0,0.0,Associate's degree
+75,0.0,0.0,Bachelor's degree or higher
+46,0.0,0.0,Bachelor's degree or higher
+66,0.0,2.0,"Attended college, no degree"
+64,86000.0,40.0,Associate's degree
+47,0.0,0.0,High school diploma
+51,40000.0,40.0,High school diploma
+60,0.0,0.0,"Attended college, no degree"
+30,55000.0,50.0,Bachelor's degree or higher
+25,75000.0,50.0,Bachelor's degree or higher
+23,6000.0,50.0,Bachelor's degree or higher
+43,50000.0,40.0,High school diploma
+33,75000.0,40.0,Bachelor's degree or higher
+34,85000.0,40.0,Bachelor's degree or higher
+47,81000.0,40.0,Bachelor's degree or higher
+47,40000.0,40.0,Bachelor's degree or higher
+60,0.0,0.0,Associate's degree
+58,2000.0,18.0,Associate's degree
+23,0.0,0.0,High school diploma
+81,8800.0,10.0,"Attended college, no degree"
+76,0.0,0.0,"Attended college, no degree"
+75,0.0,0.0,High school diploma
+63,90000.0,40.0,Bachelor's degree or higher
+56,65000.0,50.0,Bachelor's degree or higher
+30,75000.0,40.0,Bachelor's degree or higher
+72,0.0,0.0,High school diploma
+95,0.0,0.0,High school diploma
+68,50000.0,38.0,Bachelor's degree or higher
+61,45000.0,40.0,Bachelor's degree or higher
+60,0.0,0.0,"Attended college, no degree"
+76,59000.0,35.0,High school diploma
+57,0.0,0.0,High school diploma
+31,45000.0,40.0,Associate's degree
+64,115000.0,30.0,Bachelor's degree or higher
+66,112000.0,40.0,Bachelor's degree or higher
+64,0.0,0.0,Bachelor's degree or higher
+59,87000.0,40.0,"Attended college, no degree"
+30,0.0,0.0,High school diploma
+28,3800.0,20.0,Associate's degree
+40,75000.0,50.0,Bachelor's degree or higher
+24,40000.0,30.0,Bachelor's degree or higher
+23,48000.0,40.0,Bachelor's degree or higher
+23,50000.0,40.0,Bachelor's degree or higher
+73,0.0,0.0,"Attended college, no degree"
+74,0.0,0.0,"Attended college, no degree"
+86,0.0,0.0,"Attended college, no degree"
+88,0.0,0.0,High school diploma
+60,35000.0,40.0,Bachelor's degree or higher
+24,12000.0,24.0,High school diploma
+56,0.0,0.0,High school diploma
+26,25100.0,40.0,"Attended college, no degree"
+27,36000.0,60.0,High school diploma
+26,75000.0,50.0,"Attended college, no degree"
+47,0.0,0.0,High school diploma
+35,86000.0,36.0,Bachelor's degree or higher
+40,100000.0,40.0,Bachelor's degree or higher
+53,135000.0,40.0,Bachelor's degree or higher
+38,55000.0,45.0,Bachelor's degree or higher
+33,65000.0,40.0,Bachelor's degree or higher
+30,60000.0,40.0,High school diploma
+69,0.0,0.0,Bachelor's degree or higher
+44,160000.0,36.0,Bachelor's degree or higher
+50,75000.0,50.0,Bachelor's degree or higher
+59,83000.0,38.0,Bachelor's degree or higher
+28,14000.0,35.0,Bachelor's degree or higher
+63,26000.0,40.0,Associate's degree
+23,10000.0,36.0,Bachelor's degree or higher
+50,350000.0,90.0,Bachelor's degree or higher
+34,0.0,0.0,High school diploma
+63,120000.0,40.0,Bachelor's degree or higher
+66,120000.0,40.0,Bachelor's degree or higher
+34,64000.0,45.0,High school diploma
+91,0.0,0.0,Bachelor's degree or higher
+46,7000.0,40.0,High school diploma
+46,55000.0,40.0,Bachelor's degree or higher
+28,0.0,40.0,Bachelor's degree or higher
+85,0.0,0.0,Bachelor's degree or higher
+58,32400.0,35.0,Associate's degree
+79,0.0,0.0,"Attended college, no degree"
+61,162000.0,50.0,Bachelor's degree or higher
+60,0.0,0.0,"Attended college, no degree"
+75,638000.0,37.0,High school diploma
+33,150000.0,40.0,Bachelor's degree or higher
+35,350000.0,70.0,Bachelor's degree or higher
+63,135000.0,45.0,Bachelor's degree or higher
+79,0.0,0.0,"Attended college, no degree"
+52,61000.0,40.0,Bachelor's degree or higher
+81,0.0,0.0,High school diploma
+80,0.0,0.0,No diploma
+59,4400.0,20.0,High school diploma
+57,65000.0,24.0,Associate's degree
+56,80000.0,40.0,Associate's degree
+60,100000.0,35.0,Bachelor's degree or higher
+52,18000.0,30.0,Bachelor's degree or higher
+56,65000.0,40.0,Bachelor's degree or higher
+59,90000.0,50.0,Bachelor's degree or higher
+64,120000.0,4.0,High school diploma
+39,100000.0,40.0,Bachelor's degree or higher
+55,21000.0,40.0,Bachelor's degree or higher
+72,0.0,0.0,Bachelor's degree or higher
+42,50000.0,45.0,High school diploma
+39,33000.0,40.0,High school diploma
+65,0.0,0.0,High school diploma
+66,0.0,0.0,Associate's degree
+25,40000.0,50.0,Bachelor's degree or higher
+30,44000.0,40.0,High school diploma
+43,50000.0,50.0,"Attended college, no degree"
+49,23000.0,40.0,High school diploma
+70,0.0,0.0,Bachelor's degree or higher
+41,60000.0,50.0,Bachelor's degree or higher
+40,34000.0,35.0,Associate's degree
+69,120000.0,40.0,"Attended college, no degree"
+68,70000.0,50.0,Bachelor's degree or higher
+70,63000.0,45.0,Bachelor's degree or higher
+70,0.0,0.0,Bachelor's degree or higher
+68,0.0,0.0,Associate's degree
+68,50000.0,40.0,High school diploma
+76,0.0,0.0,High school diploma
+63,52000.0,40.0,High school diploma
+50,70000.0,40.0,"Attended college, no degree"
+26,85000.0,40.0,Bachelor's degree or higher
+89,0.0,0.0,"Attended college, no degree"
+45,65000.0,43.0,High school diploma
+28,36700.0,20.0,Bachelor's degree or higher
+32,70000.0,40.0,Bachelor's degree or higher
+53,50000.0,40.0,Bachelor's degree or higher
+46,21700.0,30.0,"Attended college, no degree"
+19,1500.0,25.0,High school diploma
+37,22000.0,40.0,High school diploma
+35,82000.0,35.0,Bachelor's degree or higher
+33,109000.0,35.0,Bachelor's degree or higher
+55,0.0,0.0,High school diploma
+50,33000.0,35.0,Bachelor's degree or higher
+20,15000.0,30.0,High school diploma
+51,0.0,0.0,High school diploma
+55,48000.0,40.0,No diploma
+52,33800.0,35.0,High school diploma
+27,52000.0,40.0,Bachelor's degree or higher
+25,30000.0,35.0,Associate's degree
+61,24000.0,36.0,Associate's degree
+66,12000.0,20.0,High school diploma
+44,65000.0,55.0,Bachelor's degree or higher
+39,85000.0,40.0,Bachelor's degree or higher
+58,40000.0,70.0,Bachelor's degree or higher
+62,120000.0,40.0,Bachelor's degree or higher
+53,70000.0,37.0,High school diploma
+55,40000.0,40.0,"Attended college, no degree"
+54,32000.0,35.0,No diploma
+59,40000.0,40.0,High school diploma
+60,99000.0,50.0,Bachelor's degree or higher
+24,20000.0,52.0,Bachelor's degree or higher
+29,36000.0,40.0,High school diploma
+28,0.0,0.0,Bachelor's degree or higher
+32,0.0,0.0,No diploma
+35,100000.0,42.0,No diploma
+73,4300.0,30.0,Bachelor's degree or higher
+63,53000.0,45.0,Associate's degree
+44,10.0,2.0,"Attended college, no degree"
+65,37600.0,20.0,Bachelor's degree or higher
+60,300000.0,50.0,Bachelor's degree or higher
+35,34000.0,48.0,High school diploma
+30,40000.0,40.0,Bachelor's degree or higher
+71,23000.0,20.0,High school diploma
+72,0.0,0.0,High school diploma
+31,47000.0,40.0,Bachelor's degree or higher
+35,45000.0,40.0,"Attended college, no degree"
+62,50000.0,41.0,High school diploma
+33,126000.0,50.0,Bachelor's degree or higher
+31,70000.0,40.0,Bachelor's degree or higher
+58,638000.0,50.0,Bachelor's degree or higher
+62,250000.0,50.0,Bachelor's degree or higher
+27,0.0,24.0,Bachelor's degree or higher
+47,638000.0,50.0,Bachelor's degree or higher
+49,0.0,0.0,Bachelor's degree or higher
+42,18000.0,13.0,High school diploma
+41,130000.0,40.0,Bachelor's degree or higher
+72,0.0,0.0,Bachelor's degree or higher
+71,0.0,0.0,High school diploma
+24,41100.0,30.0,No diploma
+76,0.0,35.0,Bachelor's degree or higher
+67,220000.0,40.0,Bachelor's degree or higher
+71,0.0,0.0,High school diploma
+47,19200.0,40.0,Bachelor's degree or higher
+64,0.0,70.0,Bachelor's degree or higher
+50,0.0,30.0,Bachelor's degree or higher
+75,0.0,5.0,Bachelor's degree or higher
+74,0.0,0.0,Bachelor's degree or higher
+44,0.0,0.0,Associate's degree
+20,0.0,0.0,"Attended college, no degree"
+56,68000.0,30.0,Bachelor's degree or higher
+54,14000.0,25.0,Associate's degree
+52,0.0,0.0,Bachelor's degree or higher
+53,120000.0,50.0,High school diploma
+88,0.0,0.0,Bachelor's degree or higher
+84,0.0,0.0,High school diploma
+54,114000.0,40.0,Bachelor's degree or higher
+72,0.0,0.0,Associate's degree
+84,0.0,0.0,High school diploma
+37,60000.0,40.0,High school diploma
+38,78000.0,40.0,Bachelor's degree or higher
+62,0.0,0.0,High school diploma
+74,0.0,0.0,High school diploma
+32,78000.0,40.0,Bachelor's degree or higher
+31,43000.0,40.0,High school diploma
+29,100000.0,50.0,Bachelor's degree or higher
+36,0.0,0.0,Bachelor's degree or higher
+46,250000.0,60.0,Associate's degree
+37,638000.0,45.0,Bachelor's degree or higher
+37,90000.0,42.0,Bachelor's degree or higher
+49,40000.0,35.0,High school diploma
+46,15000.0,15.0,High school diploma
+77,0.0,0.0,Associate's degree
+60,34000.0,28.0,Bachelor's degree or higher
+79,0.0,0.0,High school diploma
+67,10200.0,16.0,High school diploma
+61,52000.0,40.0,"Attended college, no degree"
+32,14400.0,25.0,Bachelor's degree or higher
+23,4000.0,5.0,Associate's degree
+35,7000.0,40.0,Bachelor's degree or higher
+33,28500.0,38.0,"Attended college, no degree"
+22,52000.0,99.0,High school diploma
+20,32000.0,40.0,High school diploma
+67,0.0,0.0,Bachelor's degree or higher
+68,0.0,0.0,Bachelor's degree or higher
+32,0.0,40.0,Bachelor's degree or higher
+33,200000.0,40.0,Bachelor's degree or higher
+76,0.0,0.0,High school diploma
+50,43000.0,38.0,Bachelor's degree or higher
+23,15000.0,40.0,"Attended college, no degree"
+26,170000.0,45.0,Bachelor's degree or higher
+27,120000.0,55.0,Bachelor's degree or higher
+21,7000.0,40.0,Bachelor's degree or higher
+21,7000.0,40.0,"Attended college, no degree"
+21,8000.0,50.0,"Attended college, no degree"
+50,100000.0,55.0,Bachelor's degree or higher
+59,250000.0,50.0,Bachelor's degree or higher
+70,115000.0,40.0,Associate's degree
+70,0.0,0.0,Bachelor's degree or higher
+36,65000.0,35.0,Bachelor's degree or higher
+59,75000.0,40.0,"Attended college, no degree"
+57,0.0,0.0,High school diploma
+30,60000.0,40.0,Associate's degree
+29,60000.0,40.0,Bachelor's degree or higher
+52,60000.0,50.0,"Attended college, no degree"
+52,115000.0,40.0,"Attended college, no degree"
+25,40000.0,40.0,High school diploma
+22,27500.0,35.0,High school diploma
+60,110000.0,50.0,"Attended college, no degree"
+58,150000.0,60.0,"Attended college, no degree"
+75,150000.0,40.0,High school diploma
+51,40000.0,40.0,"Attended college, no degree"
+32,83000.0,40.0,Bachelor's degree or higher
+45,104000.0,45.0,Bachelor's degree or higher
+45,70000.0,40.0,"Attended college, no degree"
+40,0.0,0.0,High school diploma
+23,40000.0,40.0,No diploma
+47,15000.0,10.0,Bachelor's degree or higher
+45,638000.0,60.0,Bachelor's degree or higher
+17,0.0,0.0,No diploma
+55,6500.0,35.0,Bachelor's degree or higher
+53,20000.0,45.0,Bachelor's degree or higher
+32,42000.0,30.0,Bachelor's degree or higher
+27,47500.0,38.0,Bachelor's degree or higher
+58,48000.0,38.0,Associate's degree
+42,125000.0,40.0,Bachelor's degree or higher
+46,165000.0,50.0,Bachelor's degree or higher
+83,0.0,0.0,Associate's degree
+44,44000.0,32.0,"Attended college, no degree"
+27,47000.0,40.0,Bachelor's degree or higher
+53,132000.0,70.0,Bachelor's degree or higher
+51,10100.0,20.0,Bachelor's degree or higher
+32,57000.0,35.0,Bachelor's degree or higher
+18,18700.0,20.0,"Attended college, no degree"
