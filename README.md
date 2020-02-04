@@ -1,4 +1,4 @@
-# The Data Science Workshop
+# Data Visualization with Python
 [![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/Data-Visualization-with-Python.svg)](https://github.com/PacktWorkshops/Data-Visualization-with-Python/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/Data-Visualization-with-Python.svg)](https://github.com/PacktWorkshops/Data-Visualization-with-Python/network)
 [![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/Data-Visualization-with-Python.svg)](https://github.com/PacktWorkshops/Data-Visualization-with-Python/stargazers)
@@ -17,12 +17,14 @@ To get started with the project files, you'll need to:
 You already know you want to learn Data Visualization with Python, and the smarter way to learn Data Visualization with Python is to learn by doing. Data Visualization with Python focuses on building up your practical skills so that you can kick-start your career as a developer and rapidly prototype applications. You'll learn from real examples that lead to real results.
 
 ## What you will learn
-* Find out the key differences between supervised and unsupervised learning 
-* Manipulate and analyse data using scikit-learn and pandas libraries 
-* Learn about key concepts like regression, classification and clustering 
-* Discover advanced techniques to improve the accuracyof your model 
-* Understand how to speed up the process of adding new features 
-* Simplify your machine learning workflow for production  
+* Get an overview of various plots and their best use cases
+* Work with different plotting libraries and get to know their strengths and weaknesses
+* Learn how to create insightful visualizations
+* Understand what makes a good visualization
+* Improve your Python data wrangling skills
+* Work with real world data
+* Learn the industry standard tools
+* Develop your general understanding of data formats and representations  
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
