@@ -13,7 +13,7 @@ To get started with the project files, you'll need to:
 1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
 2. Install Anaconda on [Windows](https://www.anaconda.com/distribution/#windows), [Mac](https://www.anaconda.com/distribution/#macos), [Linux](https://www.anaconda.com/distribution/#linux)
 
-## About The Data Science Workshop
+## About The Data Visualization Workshop
 You already know you want to learn The Data Visualization Workshop, and the smarter way to learn The Data Visualization Workshop is to learn by doing. The Data Visualization Workshop focuses on building up your practical skills so that you can kick-start your career as a developer and rapidly prototype applications. You'll learn from real examples that lead to real results.
 
 ## What you will learn
