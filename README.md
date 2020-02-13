@@ -14,17 +14,15 @@ To get started with the project files, you'll need to:
 2. Install Anaconda on [Windows](https://www.anaconda.com/distribution/#windows), [Mac](https://www.anaconda.com/distribution/#macos), [Linux](https://www.anaconda.com/distribution/#linux)
 
 ## About The Data Visualization Workshop
-You already know you want to learn The Data Visualization Workshop, and the smarter way to learn The Data Visualization Workshop is to learn by doing. The Data Visualization Workshop focuses on building up your practical skills so that you can kick-start your career as a developer and rapidly prototype applications. You'll learn from real examples that lead to real results.
+You already know you want to learn data visualization with Python, and a smarter way to learn is to learn by doing. The Data Visualization Workshop focuses on building up your practical skills so that you can develop clear, expressive real-world charts and diagrams. You'll learn from real examples that lead to real results.
 
 ## What you will learn
-* Get an overview of various plots and their best use cases
-* Work with different plotting libraries and get to know their strengths and weaknesses
-* Learn how to create insightful visualizations
-* Understand what makes a good visualization
-* Improve your Python data wrangling skills
-* Work with real world data
-* Learn the industry standard tools
-* Develop your general understanding of data formats and representations  
+* Get to grips with fundamental concepts and conventions of data visualization
+* Learn how to use libraries like NumPy and Pandas to index, slice, and iterate data frames
+* Implement different plotting techniques to produce compelling data visualizations
+* Learn how you can skyrocket your Python data wrangling skills
+* Draw statistical graphics using the Seaborn and Matplotlib libraries
+* Create interactive visualizations and integrate them into any webpage 
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
