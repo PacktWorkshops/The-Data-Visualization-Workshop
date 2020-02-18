@@ -8,7 +8,7 @@
 This is the repository for The Data Visualization Workshop, published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Data%20Science%20Workshop.png" alt="The Data Science Workshop" height="270px" width="220px" align="right" this.target="_blank">
+<img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Data%20Visualization%20Workshop.png" alt="The Data Science Workshop" height="270px" width="220px" align="right" this.target="_blank">
 
 To get started with the project files, you'll need to:
 1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
