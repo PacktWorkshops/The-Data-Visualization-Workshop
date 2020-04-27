@@ -14,6 +14,8 @@ To get started with the project files, you'll need to:
 1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
 2. Install Anaconda on [Windows](https://www.anaconda.com/distribution/#windows), [Mac](https://www.anaconda.com/distribution/#macos), [Linux](https://www.anaconda.com/distribution/#linux)
 
+Please note that there are no code files for Chapter 2 and hence there is no corresponding files are uploaded in this repositories.
+
 ## About The Data Visualization Workshop
 You already know you want to learn data visualization with Python, and a smarter way to learn is to learn by doing. [The Data Visualization Workshop](https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop) focuses on building up your practical skills so that you can develop clear, expressive real-world charts and diagrams. You'll learn from real examples that lead to real results.
 
