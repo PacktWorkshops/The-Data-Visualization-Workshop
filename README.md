@@ -8,7 +8,7 @@
 This is the repository for [The Data Visualization Workshop](https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20Data%20Visualization%20Workshop.png" alt="The Data Visualization Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
+<a href="https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B16701_The%20Data%20Visulization%20Workshop.png" alt="The Data Visualization Workshop" height="270px" width="220px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
@@ -17,15 +17,16 @@ To get started with the project files, you'll need to:
 Please note that there are no code files for Chapter 2 and hence there is no corresponding files are uploaded in this repositories.
 
 ## About The Data Visualization Workshop
-You already know you want to learn data visualization with Python, and a smarter way to learn is to learn by doing. [The Data Visualization Workshop](https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop) focuses on building up your practical skills so that you can develop clear, expressive real-world charts and diagrams. You'll learn from real examples that lead to real results.
+Do you want to transform data into captivating images? Do you want to make it easy for your audience to process and understand the patterns, trends, and relationships hidden within your data? 
+[The Data Visualization Workshop](https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop) will guide you through the world of data visualization and help you to unlock simple secrets for transforming data into meaningful visuals with the help of exciting exercises and activities.
 
 ## What you will learn
-* Get to grips with fundamental concepts and conventions of data visualization
-* Learn how to use libraries like NumPy and Pandas to index, slice, and iterate data frames
-* Implement different plotting techniques to produce compelling data visualizations
-* Learn how you can skyrocket your Python data wrangling skills
-* Draw statistical graphics using the Seaborn and Matplotlib libraries
-* Create interactive visualizations and integrate them into any webpage 
+* Understand the importance of data visualization in data science
+* Implement NumPy and pandas operations on real-life datasets
+* Create captivating data visualizations using plotting libraries
+* Use advanced techniques to plot geospatial data on a map
+* Integrate interactive visualizations to a webpage
+* Visualize stock prices with Bokeh and analyze Airbnb data with Plotlib
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
