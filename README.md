@@ -8,7 +8,7 @@
 This is the repository for [The Data Visualization Workshop](https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
 ## Requirements and Setup
-<a href="https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B16701_The%20Data%20Visulization%20Workshop.png" alt="The Data Visualization Workshop" height="300px" width="240px" align="right" this.target="_blank"></a>
+<a href="https://courses.packtpub.com/courses/data-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781838981488&utm_term=Data%20Visualization&utm_content=The%20Data%20Visualization%20Workshop"><img src="https://github.com/PacktWorkshops/Workshop-Covers/blob/master/B16701_The%20Data%20Visulization%20Workshop.png" alt="The Data Visualization Workshop" height="320px" width="240px" align="right" this.target="_blank"></a>
 
 To get started with the project files, you'll need to:
 1. Install Jupyter on [Windows](https://www.python.org/downloads/windows/), [Mac](https://www.python.org/downloads/mac-osx/), [Linux](https://www.python.org/downloads/source/)
