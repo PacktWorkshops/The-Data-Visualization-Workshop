@@ -26,7 +26,7 @@ Do you want to transform data into captivating images? Do you want to make it ea
 * Create captivating data visualizations using plotting libraries
 * Use advanced techniques to plot geospatial data on a map
 * Integrate interactive visualizations to a webpage
-* Visualize stock prices with Bokeh and analyze Airbnb data with Plotlib
+* Visualize stock prices with Bokeh and analyze Airbnb data with matplotlib
 
 ## Related Workshops
 If you've found this repository useful, you might want to check out some of our other workshop titles:
